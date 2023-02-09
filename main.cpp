@@ -78,6 +78,6 @@ int main()
     ch = getch();
   }
   if (ch == '1')
-    game::beginNew();
+    ;
   return 0;
 }
